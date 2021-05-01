@@ -1,5 +1,4 @@
 Elodie Collier
-811723961
 
 To compile the program, type and enter 'make' into the command line. This command will compile, run, and clean the program. The
 output of the program will be printed in outFile.txt using input from inputFile.txt.
